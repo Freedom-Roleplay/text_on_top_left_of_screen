@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
             SetTextDropShadow()
             SetTextOutline()
             SetTextEntry("STRING")
-            AddTextComponentString("YOUR TEXT HERE")
+            AddTextComponentString("Join Our Discord")
             DrawText(0.005, 0.005)
 end
 end)
